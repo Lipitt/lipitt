@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, soy David Lipshitz</h1>
 <h3 align="center">Un React developer autodidacta de Argentina</h3>
 
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
 - En este momento estoy participando de la comunidad [Frontend-Cafe](https://github.com/Frontend-Cafe)
 
 - Tambien estoy aprendiendo **Next.js, Redux & React Native**
