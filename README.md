@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm David Lipshitz</h1>
 <h3 align="center">A self-taught Front-end Developer from Argentina</h3>
 
-- 🔭 I’m currently participating in [Frontend-Cafe community](https://github.com/Frontend-Cafe)
+- I’m currently participating in [Frontend-Cafe community](https://github.com/Frontend-Cafe)
 
-- 🌱 Also, I’m currently learning **Next.js, Redux & React Native**
+- Also, I’m currently learning **Next.js, Redux & React Native**
 
 
 <h3 align="left">Languages and Tools:</h3>
