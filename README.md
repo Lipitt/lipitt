@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy David Lipshitz</h1>
-<h3 align="center">Un desarrollador Frontend autodidacta de Argentina</h3>
+<h3 align="center">Un React developer autodidacta de Argentina</h3>
 
 - En este momento estoy participando de la comunidad [Frontend-Cafe](https://github.com/Frontend-Cafe)
 
