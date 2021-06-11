@@ -3,9 +3,11 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-- En este momento estoy participando de la comunidad [Frontend-Cafe](https://github.com/Frontend-Cafe)
+- En este momento estoy participando de la comunidad [Frontend-Cafe](https://frontend.cafe/)
 
 - Tambien estoy aprendiendo **Next.js, Redux & React Native**
+
+- Podes ver mis proyectos mas interesantes en mi [Portfolio](https://lipitt.github.io/Responsive-Portfolio/)
 
 - Contactame! Mi mail es victor.david.lip@gmail.com o por [Linkedin](https://www.linkedin.com/in/david-lipshitz/)
 
